@@ -16,6 +16,68 @@
     width:100%;
   }
   
+  .contents-team{
+    width: 30%;
+    padding: 20px 20px;
+    margin: 0px 50px;
+  }
+
+  .contents{
+    padding: 50px 80px;
+    margin-bottom: 45px;
+  }
+
+  #featuress{
+    height: 520px;
+  }
+
+  .feature h2{
+    font-size: 30px;
+    padding:25px 0 40px;
+  }
+
+  .heading{
+    padding-top: 30px;
+  }
+
+  .heading h2{
+    font-size: 30px;
+  }
+
+  .column{
+    width:33.33%;
+    display: inline-block;
+  }
+
+  #hardian-card{
+    clear: left;
+  }
+
+  #about{
+    padding:0px 50px;
+  }
+
+  .lesson{
+    width: 50%;
+    margin-bottom: 50px;
+  }
+
+  .contact-form input, .subscribe{
+    width: 50%;
+    display: block;
+    margin-left: 115px;
+    margin-right: 115px;
+  }
+
+  .center {
+    display: block;
+    
+  }
+
+  .contact-message{
+    width: 100%;
+  }
+
 }
 
 @media all and (max-width: 670px) {
