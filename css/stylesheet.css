@@ -132,6 +132,13 @@ header {
   display: block;
 }
 
+.menu-icon {
+  display: none;
+  color: black;
+  float: right;
+  font-size: 25px;
+  padding: 15px 0;
+}
 
 .menu-active:hover {
   background-color: rgba(0, 0, 0, 0.473);
@@ -355,9 +362,10 @@ input {
   border-color: green;
 }
 
-.fa {
+/* .fa {
+  display: none;
   margin-right: 5px;
-}
+} */
 
 .subscribe {
   color: #494949 !important;
